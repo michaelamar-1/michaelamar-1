@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelamar-1 (Michael Amar)
 - 👀 I’m interested in full-stack web development,development with Python, Java and C/C++
 - 📫 How to reach me:   
-  - 📧 michael.amar@example.com  
+  - 📧 michaelamarb19@gmail.com  
   - 💼 [LinkedIn.com/in/amarmich](https://www.linkedin.com/in/amarmich)  
 - ⚡ Fun fact: Before diving into CS I worked as an executive chef.
